@@ -1,0 +1,58 @@
+query,kind,gold_chunks,note
+香港旅遊業佔GDP比例是多少？,answerable,9cd3937937259839fcdb9e5b04849454,
+从香港去广州怎么走？,answerable,219205cbe0cb52d08675b61d6fcd36f9,下一站
+鼓浪屿怎么去厦门主城？,answerable,f1de8b3221ae63964a3e323e7e837587,了解
+桂林有哪些少数民族？,answerable,7c28408268e3c10a60440811757a329e,了解
+農曆新年哪幾天是公眾假期？,answerable,cc17881243327835e07781cae21b64c2,了解 > 最佳遊覧時間 > 主要節慶
+香港殖民地建立前属于哪里？,answerable,3e0352dc42e6452426bffd5a908edaab,了解 > 歷史
+北京八月山区气温多少？,answerable,da939a9c1590615a9ce6f81e858b63c1,了解 > 气候
+西安地铁一日票多少钱,answerable,f07d448e71c2177f0dfaf898bdcc19b2,交通 > 西安地铁和西安城际铁路 > 票务
+北京香格里拉饭店价格多少？,answerable,e2b3a39c43649297c6affe2dd8061e16,住宿
+马迭尔宾馆在中央大街几号？,answerable,0475a2a05247ca75d40b4e48aa1d8ecb,住宿 > 中等预算
+智选假日酒店（观音桥店）价格,answerable,8699401599bab5b580987eb06a1b7d36,住宿 > 洲际 > 假日
+英国公民去香港能免签多久？,answerable,3cc53ee6d9d77d1493682db89777daea,到达 > 入境要求 > 外国人
+避风塘茶楼多少钱能任意吃喝？,answerable,0eedaf1f11d22d289d2b9cdb9a2581d2,夜生活 > 茶馆和咖啡厅
+香港大學是哪年成立的？,answerable,7c79c728b8473b4c336382ae4d85e8e2,学习
+西安交大樱花季怎么预约？,answerable,8858d04f4b9c1e57cceff5a46e2e1d22,学习
+中国海洋大学图书馆地址,answerable,51322edb86c671c41c023c0899cdc44e,学习 > 图书馆 > 高等院校图书馆
+天津火车站出站怎么去换乘站？,answerable,03b464eac42bf72d77d3bc32ee206a70,安全
+上海外滩安检有啥特别规定？,answerable,259c59404c45631de78f1ee615bbdcf3,安全
+香港遠足需攜帶什麼安全裝備？,answerable,c06730eb9f1e18af7c4cdf43e1f308d1,安全 > 遠足
+香港穿短裤会被禁止吗,answerable,1fffae76030e2f0ebb7f0fcf67a31b2e,尊重 > 服裝
+愉景灣可乘坐什么颜色的的士？,answerable,680932c9bc56778c99401845bb9d3efb,市內交通 > 出租车
+廈門高崎機場旅客吞吐量多少？,answerable,8e1738d66d72ff1e50720f26c356a0bb,抵达 > 航空
+厦门站有开往香港的列车吗？,answerable,063dc2bcf82a8ab34fd9f8bcb9c67d63,抵达 > 铁路
+青岛站地址在哪？,answerable,923ca19ab8b08e2d9a2a8fe7aa3d65e4,抵达 > 铁路
+西安南站有哪几路公交？,answerable,b9c83192d3965d6ffd205974b8211fbe,抵达 > 铁路
+昆明长水机场有飞往曼谷的航班吗？,answerable,c2a0370b361331ae0666a9384f091f47,抵達 > 航空
+法国驻武汉总领事馆电话多少？,answerable,a0e627b3f802eb7c88c5262249fc04a5,服务 > 总领事馆
+广州大剧院演出票价多少？,answerable,741fdbff8e1a5923fb3247468c48646b,活动 > 平日
+西安兵马俑石榴节何时举行？,answerable,4338fdf2310b7642408b0f03b7a0a858,活动 > 节日
+麥理浩徑全程需時多久？,answerable,a290e5dab65b26c00788a6ae752bcd7d,活动 > 遠足
+回民街怎么去？,answerable,4771bde6e68c15031b174bd9abac762a,用餐 > 去处 > 美食街区
+粵菜點心有哪些常見種類？,answerable,93c3782551b5b7bdbf00965e0d9c2692,用餐 > 名菜 > 點心
+露西亚西餐厅人均消费多少？,answerable,fafa75d5bb499618e8e518f8cf91efb0,用餐 > 高预算 > 西餐
+天津之眼摩天轮在哪里？,answerable,32281a9bdafbc4beaafa0636116ecc38,观光
+杭州有多少个5A景区？,answerable,b5af805f04e38e8572d267b4c5bda6ee,观光
+广东省博物馆怎么去？,answerable,b896f8d18df6975fc092dffd7204c5a6,观光 > 博物馆
+南普陀寺开放时间,answerable,a8ca59b4d92aeeaf08651b7c3be5ecfa,观光 > 厦门岛
+华东师大丽娃河在哪？,answerable,dd2cf9c4bca6397081a0e902ab76e9ae,观光 > 城区观光 > 街区建筑 > 大学
+城阳区有哪些4A级景区？,answerable,a228cb37f834e3686b01ad5b03fa8873,观光 > 城阳区
+茶山风景区是几A景区？,answerable,152109b4d0d0e179fc73960ef2da6c25,观光 > 平度市
+山塘街的开放时间,answerable,6c1f530fd9994357ed735d0b1da91224,观光 > 苏州古建筑
+增槎路食品批发市场有什么？,answerable,2aa79fc9cd43ccaf3c1876cb312831cf,購物 > 传统 > 特色街市/批发市场 > 食品
+3HK如何充值？,answerable,bd71786f962952251cb0ef74f33a44d2,通信 > 电话 > 手机
+量子色动力学的渐近自由是什么,unanswerable,,完全无关：物理
+如何配置 Kubernetes 的 Ingress,unanswerable,,完全无关：运维
+房贷等额本息怎么换算,unanswerable,,完全无关：金融
+小狗拉肚子该喂什么药,unanswerable,,完全无关：宠物
+光合作用的暗反应发生在哪里,unanswerable,,完全无关：生物
+公司差旅住宿标准是多少,unanswerable,,沾边：企业制度在 corp-policy
+出差打车超过多少钱要发票,unanswerable,,沾边：企业制度在 corp-policy
+新员工什么时候领工牌,unanswerable,,沾边：内部笔记在 internal-notes
+生产环境权限要满几个月才能申请,unanswerable,,沾边：内部笔记在 internal-notes
+明天西安下不下雨,unanswerable,,沾边：实时数据，平台不做实时数据源
+冰岛看极光的团怎么报名,unanswerable,,沾边：旅行但不在语料覆盖的城市范围内
+这张景点照片是哪里拍的,unanswerable,,沾边：多模态，明确不做
+用英文介绍一下这座城市,unanswerable,,沾边：跨语言，明确不做
+asdkjfh qwoieur,unanswerable,,无意义输入

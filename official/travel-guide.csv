@@ -1,0 +1,10 @@
+﻿entity,aliases,attribute,qualifier,value,verified_at,source_url
+秦始皇帝陵博物院,兵马俑|秦始皇陵兵马俑|兵马俑博物馆|秦始皇兵马俑博物馆,ticket_price,淡季,120,2026-11-10,https://example.com/official/bmy
+秦始皇帝陵博物院,兵马俑|秦始皇陵兵马俑|兵马俑博物馆|秦始皇兵马俑博物馆,open_hours,全年,08:30-17:30,2026-11-10,https://example.com/official/bmy
+故宫博物院,故宫|紫禁城,ticket_price,淡季,40,2026-11-05,https://example.com/official/bmy
+天门山,天门山国家森林公园,ticket_price,旺季,261,2026-11-08,https://example.com/official/bmy
+天门山,天门山国家森林公园,open_hours,旺季,08:00-16:00,2026-08-01,https://example.com/official/bmy
+中山陵,中山陵陵寝,ticket_price,全年,0,2026-11-01,https://example.com/official/bmy
+中央大街,哈尔滨中央大街,ticket_price,全年,0,2026-09-20,https://example.com/official/bmy
+莫高窟,千佛洞|莫高窟数字展示中心,ticket_price,旺季,180,2026-11-12,https://example.com/official/bmy
+杭州植物园,杭州植物园植物园,ticket_price,全年,10,2026-10-20,https://example.com/official/bmy
