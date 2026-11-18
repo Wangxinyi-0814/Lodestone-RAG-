@@ -1,8 +1,10 @@
 .env
+.env.docker
 .venv/
 logs/
 snapshots/
 reports/
+backups/
 __pycache__/
 *.pyc
 .pytest_cache/
